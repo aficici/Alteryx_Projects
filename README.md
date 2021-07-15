@@ -8,7 +8,9 @@ Should the company send the catalogs to new costumers from company mailing list?
 
 What price do you recommend the jewelry company to bid? 
 
-3. New Pet Store Location Project
+## New Pet Store Location Project
+
+Recommend a city for a newest pet store, based on predicted yearly sales. Which city is the ideal location for a new store?
 
 5. New Credit Application Approval Prediction Project
 
