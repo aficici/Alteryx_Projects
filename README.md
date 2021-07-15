@@ -1,9 +1,10 @@
 # Alteryx_Projects
 
-Project 1: Predicting Catalog Demand.
+## Project 1: Predicting Catalog Demand.
 
 Should the company send the catalogs to new costumers from company mailing list?
 
+## Diamond Prices Prediction Project
 
 3. New Pet Store Location Project
 
