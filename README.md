@@ -6,6 +6,8 @@ Should the company send the catalogs to new costumers from company mailing list?
 
 ## Diamond Prices Prediction Project
 
+What price do you recommend the jewelry company to bid? 
+
 3. New Pet Store Location Project
 
 5. New Credit Application Approval Prediction Project
