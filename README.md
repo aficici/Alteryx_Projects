@@ -1,6 +1,8 @@
 # Alteryx_Projects
 
-1. Data Cleaning Project
+Project 1: Predicting Catalog Demand.
+Should the company send the catalogs to new costumers from company mailing list?
+
 
 3. New Pet Store Location Project
 
