@@ -12,6 +12,8 @@ What price do you recommend the jewelry company to bid?
 
 Recommend a city for a newest pet store, based on predicted yearly sales. Which city is the ideal location for a new store?
 
-5. New Credit Application Approval Prediction Project
+## New Credit Application Approval Prediction Project
+
+Build and Compare Classification Models (Linear, Logistic, Stepwise, Decision Tree, Random Forest and Boosting) to predict Creditworhty customers.
 
 
