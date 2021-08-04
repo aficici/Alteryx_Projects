@@ -16,4 +16,6 @@ Recommend a city for a newest pet store, based on predicted yearly sales. Which 
 
 Build and Compare Classification Models (Linear, Logistic, Stepwise, Decision Tree, Random Forest and Boosting) to predict Creditworhty customers.
 
+## A/B Testing for New Menu
 
+Buld and Analyze the A/B test and write up a recommendation to whether the Coffee chain should launch this new menu.
